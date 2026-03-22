@@ -23,8 +23,6 @@
 
 > Exploring new technologies
 
-> motto
-"Stay low, keep learning."
 
 ### Tech Stack
 <p align="center">
