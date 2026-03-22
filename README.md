@@ -42,7 +42,7 @@
 └── misc            # other projects
 ```
 
- <h3>Currently Learning</h3>
+<h3>Currently Learning</h3>
 
 >Data Analysis (Pandas, NumPy)
 
