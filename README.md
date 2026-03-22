@@ -8,15 +8,16 @@
 
 # About Me
 
-### whoami
-#### *Mushab Aqil Sulaeman | Student* 
+ whoami
+  
+  *Mushab Aqil Sulaeman — known as Mushab, and occasionally operating under the pseudonym “qillua” — is an individual who prioritizes reflection and observation, accompanied by a strong initiative toward continuous exploration across systems, ideas, and disciplines.*
 
-### focus now 
+ focus now 
 > Data Science
 
 > Cyber Security
 
-### interests
+ interests
 > Linux / Windows ricing (minimal, aesthetic setups)
 
 > Dotfiles customization
