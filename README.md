@@ -27,7 +27,7 @@
 > Exploring new technologies
 
 
-### Tech Stack
+<h3>Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,kali,python,bash,git,github,neovim" />
 </p>
