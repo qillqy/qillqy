@@ -9,7 +9,7 @@
 # About Me
 
 ### whoami
-#### *Mushab Aqil Sulaeman*
+#### *Mushab Aqil Sulaeman | Student* 
 
 ### focus now 
 > Data Science
