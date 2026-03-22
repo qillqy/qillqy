@@ -41,7 +41,7 @@
 └── misc            # other projects
 ```
 
-## Currently Learning
+# Currently Learning
 
 >Data Analysis (Pandas, NumPy)
 
