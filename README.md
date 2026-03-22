@@ -42,13 +42,18 @@
 ```
 
 ## Currently Learning
-Data Analysis (Pandas, NumPy)
-Machine Learning basics
-Cyber Security Fundamentals
-Networking
 
+>Data Analysis (Pandas, NumPy)
+
+>Machine Learning basics
+
+>Cyber Security Fundamentals
+
+>Networking
+
+
+### Goals
 ```
-Goals
 [ ] Master Data Science fundamentals
 [ ] Understand Cyber Security concepts
 [ ] Build useful and meaningful projects
