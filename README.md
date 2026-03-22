@@ -1,4 +1,4 @@
-<h2 align="center">Mushab Aqil S | qillua~</h2>
+<h1 align="center">Mushab Aqil S | qillua~</h1>
 
 
 
@@ -8,22 +8,23 @@
 
 ---
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 
- introduces
+__introduces__
   
   *Mushab Aqil Sulaeman — known as Mushab, and occasionally operating under the pseudonym “qillua” — is an individual who prioritizes reflection and observation, accompanied by a strong initiative toward continuous exploration across systems, ideas, and disciplines.*
 
- focus now 
+__focus now__ 
 > Data Science
 
 > Cyber Security
 
- interests
+ 
+__interests__
 > Linux / Windows ricing (minimal, aesthetic setups)
-
+>
 > Dotfiles customization
-
+>
 > Exploring new technologies
 
 
@@ -32,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=linux,arch,kali,python,bash,git,github,neovim" />
 </p>
 
- Workspace
+__Workspace__
 
 ```
 ~/projects
@@ -45,15 +46,15 @@
 <h3>Currently Learning</h3>
 
 >Data Analysis (Pandas, NumPy)
-
+>
 >Machine Learning basics
-
+>
 >Cyber Security Fundamentals
-
+>
 >Networking
 
 
- Goals
+__Goals__
 ```
 [ ] Master Data Science fundamentals
 [ ] Understand Cyber Security concepts
