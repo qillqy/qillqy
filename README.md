@@ -1,4 +1,6 @@
-# Mushab Aqil S | qillua~
+<h2 align="center">Mushab Aqil S | qillua~</h2>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=888888&center=true&vCenter=true&lines=Ricing+Enthusiast;Linux+obsessed;Data+Science+Learner;Cyber+Security+Explorer" />
@@ -6,7 +8,7 @@
 
 ---
 
-# About Me
+<h3>About Me</h3>
 
  whoami
   
@@ -40,7 +42,7 @@
 └── misc            # other projects
 ```
 
-## Currently Learning
+ <h3>Currently Learning</h3>
 
 >Data Analysis (Pandas, NumPy)
 
