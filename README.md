@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=linux,arch,kali,python,bash,git,github,neovim" />
 </p>
 
-### Workspace
+ Workspace
 
 ```
 ~/projects
@@ -40,7 +40,7 @@
 └── misc            # other projects
 ```
 
-# Currently Learning
+## Currently Learning
 
 >Data Analysis (Pandas, NumPy)
 
@@ -51,7 +51,7 @@
 >Networking
 
 
-### Goals
+ Goals
 ```
 [ ] Master Data Science fundamentals
 [ ] Understand Cyber Security concepts
