@@ -9,7 +9,7 @@
 # About Me
 
 ### whoami
-*Mushab Aqil Sulaeman*
+#### *Mushab Aqil Sulaeman*
 
 ### focus now 
 > Data Science
@@ -28,7 +28,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,kali,python,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,kali,python,bash,git,github,neovim" />
 </p>
 
 ### Workspace
